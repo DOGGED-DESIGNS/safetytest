@@ -5,7 +5,7 @@ import { constructMetadata } from "@/lib/utils";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metaData = constructMetadata();
+export const metadata = constructMetadata();
 
 export default function RootLayout({
   children,
