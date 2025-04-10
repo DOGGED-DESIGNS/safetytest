@@ -11,7 +11,7 @@ export function constructMetadata({
   title = "Sanagos Safety",
   description = " At Sanagos Safety, we supply and service fire safety equipment,fire detection systems, and automatic fire suppression solutions—built to safeguard lives and property, 24/7.",
   image = "/santhumb.png",
-  icons = "/favicon.ico",
+  icons = "/favicon.png",
 }: {
   title?: string;
   description?: string;
