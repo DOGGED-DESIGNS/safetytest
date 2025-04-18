@@ -13,7 +13,7 @@ export default function Hero() {
             <h1 className="h1 mt-10 text-safeWhite  ">
               {" "}
               Smart, reliable safety solutions built for Africa’s toughest
-              environments
+              environments added
             </h1>
 
             <p className=" mt-8 p text-safeWhite">
